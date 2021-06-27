@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Material-Profile.iml" filepath="$PROJECT_DIR$/Material-Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Material-Profile.iml" filepath="$PROJECT_DIR$/Material-Profile.iml" group="Material-Profile" />
+      <module fileurl="file://$PROJECT_DIR$/app/Material-Profile-app.iml" filepath="$PROJECT_DIR$/app/Material-Profile-app.iml" group="Material-Profile/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
